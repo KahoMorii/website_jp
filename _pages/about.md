@@ -1,33 +1,22 @@
 ---
 permalink: /
-title: "Kaho Morii"
-excerpt: "About me"
+title: "森井 嘉穂"
+excerpt: "ホーム"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a PhD student at the University of Tokyo, Japan. 
+**氏名** 森井 嘉穂 (もりい　かほ)
+
+**所属** 東京大学理学系研究科天文学専攻 修士2年
+
+**研究拠点** 国立天文台科学研究部
+
+**研究分野** 星形成、大質量星形成、赤外線暗黒星雲、アウトフロー、電波天文学
+
+**指導教員** 中村文隆　准教授、　Dr. Sanhueza Patricio (国立天文台/総研大)
+
+**連絡先** 国立天文台三鷹キャンパス <br> 181-8588 東京都三鷹市大沢2-21-1 中央棟(西)102
 <br>
-My research interest is how stars form, especially about high-mass stars. 
-Using the radio interferometer such as ALMA, I'm studying the initial phase of high-mass star formation in infrared dark clouds (IRDCs). 
-
-## Affiliation: 
-
-Department of Astronomy, School of Science, the University of Tokyo 
-<br>
-/ Division of Science of the National Astronomical Observatory of Japan (NAOJ)
-
-
-## Research Field: 
-Star formation, High-mass star formaion, IRDCs, Outflows, Radio Astronomy
-
-## Supervisors:
-Prof. Fumitaka Nakamura, Prof. Patricio Sanhueza
-
-## Contact Information:
-National Astronomical Observatory of Japan
-<br>
-2-21-1 Osawa, ALMA-J, Office 205, Mitaka, Tokyo 181-8588, Japan
-<br>
-Email: kaho.morii@grad.nao.ac.jp
+メールアドレス: kaho.morii@grad.nao.ac.jp
