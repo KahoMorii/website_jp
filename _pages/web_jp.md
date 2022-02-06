@@ -1,10 +1,10 @@
 ---
-permalink: /web_jp/
+permalink: /web_en/
 title: ""
 author_profile: true
 redirect_from:
   - /md/
-  - /web_jp.html
+  - /web_en.html
 ---
 
-日本語版は[こちら](https://KahoMorii.github.io/jp/)
+You can find an English web page [here](https://KahoMorii.github.io/).
