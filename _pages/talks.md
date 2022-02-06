@@ -5,7 +5,6 @@ excerpt: "Talks"
 author_profile: true
 redirect_from: 
   - /talks/
-<!--   - /talks.html -->
 ---
 
 ## International Conferences and workshops: 
