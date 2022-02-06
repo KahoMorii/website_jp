@@ -15,21 +15,18 @@ Using the radio interferometer such as ALMA, I'm studying the initial phase of h
 ## Affiliation: 
 
 Department of Astronomy, School of Science, the University of Tokyo 
-
+<br>
 / Division of Science of the National Astronomical Observatory of Japan (NAOJ)
 
 
 ## Research Field: 
-
 Star formation, High-mass star formaion, IRDCs, Outflows, Radio Astronomy
 
 ## Supervisors:
-
 Prof. Fumitaka Nakamura, Prof. Patricio Sanhueza
 
 ## Contact Information:
 National Astronomical Observatory of Japan
-
 2-21-1 Osawa, ALMA-J, Office 205, Mitaka, Tokyo 181-8588, Japan
-
+<br>
 Email: kaho.morii@grad.nao.ac.jp
