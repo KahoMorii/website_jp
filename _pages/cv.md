@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 職歴
 ======
 * 2020年10月-現在 <br> 卓越大学院プログラム（WISEプログラム）変革を駆動する先端物理・数学プログラム（FoPM）リサーチアシスタント
