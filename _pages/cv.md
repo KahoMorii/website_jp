@@ -8,11 +8,17 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education
+職歴
 ======
-* B.S. in Department of Earth and Planetary Sciences, School of Science, Kyushu University, 2020
-* M.S. in Department of Astronomy, School of Science, the University of Tokyo, 2022
+* 2020年10月-現在 <br> 卓越大学院プログラム（WISEプログラム）変革を駆動する先端物理・数学プログラム（FoPM）リサーチアシスタント
+
+
+学歴
+======
+* 2020年4月-現在 <br> 東京大学理学系研究科天文学専攻 
+* 2016年4月-2020年3月 <br> 九州大学理学部地球惑星科学科
+* 2013年4月-2016年3月 <br> 香川県立高松高校
+
 
 <!-- Work experience
 ======
@@ -27,15 +33,7 @@ Education
   * Supervisor: Professor Hub
    -->
    
-Appointments
-======
-* October 2020-
-Research Assistant in 5-year integrated Masters–Doctoral degree program, the Forefront Physics and Mathematics Program to Drive Transformation (FoPM) 
 
-<!-- * April 2022-March 2025
-JSPS Research Fellow (DC1), Department of Astronomy, Graduate School of Science, The University of Tokyo
- -->
- 
 <!-- Skills
 ======
 * Skill 1
