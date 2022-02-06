@@ -26,3 +26,10 @@ Star formation, High-mass star formaion, IRDCs, Outflows, Radio Astronomy
 ## Supervisors:
 
 Prof. Fumitaka Nakamura, Prof. Patricio Sanhueza
+
+## Contact Information:
+National Astronomical Observatory of Japan
+
+2-21-1 Osawa, ALMA-J, Office 205, Mitaka, Tokyo 181-8588, Japan
+
+Email: kaho.morii@grad.nao.ac.jp
