@@ -56,7 +56,7 @@ Jackson, J, M., Silva, A., Guzmán, A, E., Sakai, T., Izumi, N., Tafoya, D., Li,
 2020, The Astrophysical Journal, 903, 119
 
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
