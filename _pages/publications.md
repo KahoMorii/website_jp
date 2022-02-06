@@ -21,8 +21,8 @@ redirect_from:
 Tatematsu, K., Ohashi, S., Silva, A., Olguin, F, A., and Contreras, Y.
 <br>
 2021, The Astrophysical Journal, 923, 147
-
 <br />
+
 2. ["Revealing a Centrally Condensed Structure in OMC–3/MMS 3 with ALMA High Resolution Observations"](https://ui.adsabs.harvard.edu/abs/2021ApJ...910..148M/abstract)
 <br>
 **Morii, K.**, Takahashi, S., Machida, M. N.
