@@ -1,11 +1,11 @@
 ---
 permalink: /
 title: "Talks"
-<!-- excerpt: "About me" -->
+excerpt: "Talks"
 author_profile: true
 redirect_from: 
   - /talks/
-  - /talks.html
+<!--   - /talks.html -->
 ---
 
 ## International Conferences and workshops: 
