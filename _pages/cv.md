@@ -26,6 +26,13 @@ Education
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
    -->
+   
+<!-- Appointments
+======
+* April 2022-March 2025
+JSPS Research Fellow (DC1), Department of Astronomy, Graduate School of Science, The University of Tokyo
+  -->
+ 
 <!-- Skills
 ======
 * Skill 1
@@ -35,7 +42,7 @@ Education
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -45,7 +52,7 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Teaching
 ======
