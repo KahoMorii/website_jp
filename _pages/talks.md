@@ -21,8 +21,8 @@ redirect_from:
 ## 国際会議: 
 
 **(1)** ["G023.477:Extremely early phase pf high-mass star formation"](https://alma.kasi.re.kr/almakasi2021/abstract/KahoMorii.html) <br> 
-  **Kaho Morii** (oral) <br>
-  [East Asian ALMA Science Workshop 2021](https://alma.kasi.re.kr/almakasi2021/) (February 17-19, 2021, at Daejeon, Korea (Online))
+  \ **Kaho Morii** (oral) <br>
+  \ [East Asian ALMA Science Workshop 2021](https://alma.kasi.re.kr/almakasi2021/) (February 17-19, 2021, at Daejeon, Korea (Online))
 
 ## 国内会議:
 **(11)** "Internal structures of 70 µm dark high-mass clumps: hub-filament systems and massive cores" <br> 
