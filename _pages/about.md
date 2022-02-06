@@ -18,11 +18,11 @@ Department of Astronomy, School of Science, the University of Tokyo
 
 / Division of Science of the National Astronomical Observatory of Japan (NAOJ)
 
-## Supervisors:
-
-Prof. Fumitaka Nakamura, Prof. Patricio Sanhueza
 
 ## Research Field: 
 
 Star formation, High-mass star formaion, IRDCs, Outflows, Radio Astronomy
 
+## Supervisors:
+
+Prof. Fumitaka Nakamura, Prof. Patricio Sanhueza
