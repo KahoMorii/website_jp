@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Kaho Morii"
-<!-- excerpt: "About me" -->
+excerpt: "Kaho Morii"
 author_profile: true
 redirect_from: 
   - /about/
