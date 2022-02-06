@@ -6,8 +6,6 @@ author_profile: true
 redirect_from:
   - /outreach/
 ---
-
-{% include base_path %}
      
 ## Outreach activities
 - [Nonprofit Organization: Science Station](http://www.sciencestation.jp/index.html)
