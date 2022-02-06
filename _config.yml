@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kaho Morii"
 title_separator          : "-"
 name                     : &name "Kaho Morii"
-description              : &description "PhD student in the university of Tokyo, Japan"
+description              : &description "Ph.D. Student of Astronomy at the University of Tokyo"
 url                      : https://KahoMorii.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KahoMorii/KahoMorii.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Kaho Morii"
   avatar           : "profile.png"
-  bio              : "PhD student in the university of Tokyo"
+  bio              : "Ph.D. Student of Astronomy at the University of Tokyo"
   location         : "NAOJ, Tokyo, Japan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=6nQFRkEAAAAJ&hl=ja&authuser=1"
   email            : "kaho.morii@grad.nao.ac.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "KahoMorii"
+  github           : #"KahoMorii"
   google_plus      :
   keybase          :
   instagram        :
