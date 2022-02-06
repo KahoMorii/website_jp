@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a PhD student at the University of Tokyo, Japan. 
-
+<br>
 My research interest is how stars form, especially about high-mass stars. 
 Using the radio interferometer such as ALMA, I'm studying the initial phase of high-mass star formation in infrared dark clouds (IRDCs). 
 
@@ -27,6 +27,7 @@ Prof. Fumitaka Nakamura, Prof. Patricio Sanhueza
 
 ## Contact Information:
 National Astronomical Observatory of Japan
+<br>
 2-21-1 Osawa, ALMA-J, Office 205, Mitaka, Tokyo 181-8588, Japan
 <br>
 Email: kaho.morii@grad.nao.ac.jp
