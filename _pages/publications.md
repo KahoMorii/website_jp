@@ -24,7 +24,7 @@ Tatematsu, K., Ohashi, S., Silva, A., Olguin, F, A., and Contreras, Y.
 2021, The Astrophysical Journal, 923, 147
 <br />
 
-**(2)** <br> 
+**(1)** <br> 
 ["Revealing a Centrally Condensed Structure in OMC–3/MMS 3 with ALMA High Resolution Observations"](https://ui.adsabs.harvard.edu/abs/2021ApJ...910..148M/abstract)
 <br>
 **Morii, K.**, Takahashi, S., Machida, M. N.
@@ -50,7 +50,7 @@ Jackson, J, M., Nakamura, F., Sakai, T.,
 2021, The Astrophysical Journal, 913, 131
 <br />
 
-**(3)** <br> 
+**(1)** <br> 
 ["The ALMA Survey of 70 μm Dark High-mass Clumps in Early Stages (ASHES). II. Molecular Outflows in the Extreme Early Stages of Protocluster Formation "](https://ui.adsabs.harvard.edu/abs/2020ApJ...903..119L/abstract)
 <br>
 Li, S., Sanhueza, P., Zhang, Q., Nakamura, F., Lu, X.,  Wang, J., Liu, T., Tatematsu, K., 
