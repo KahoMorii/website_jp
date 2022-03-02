@@ -34,11 +34,11 @@ Tatematsu, K., Ohashi, S., Silva, A., Olguin, F, A., and Contreras, Y.
 
 ## Co-Author Papers 
 **(3)** <br> 
-["The ALMA Survey of 70 µm Dark High-mass Clumps in Early Stages (ASHES). V. Deuterated Molecules in the 70 $\mu$m dark IRDC G14.492-00.139 "](https://ui.adsabs.harvard.edu/abs/2021arXiv211113325S/abstract)
+["The ALMA Survey of 70 µm Dark High-mass Clumps in Early Stages (ASHES). V. Deuterated Molecules in the 70 $\mu$m dark IRDC G14.492-00.139 "](https://ui.adsabs.harvard.edu/abs/2022ApJ...925..144S/abstract)
 <br>
 Sakai, T., Sanhueza, P., Furuya, K., Tatematsu, K., Li, S., Aikawa, Y., Lu, X., Zhang, Q., **Morii, K.**, Nakamura, F., Takemura, H., Izumi, N., Hirota, T., Silva, A., Guzmán, A, E., Sakai, N., Yamamoto, S.
 <br>
-2022, accepted for the Astrophysical Journal
+2022, The Astrophysical Journal, 925, 144
 <br />
 
 **(2)** <br> 
