@@ -45,7 +45,7 @@ Sakai, T., Sanhueza, P., Furuya, K., Tatematsu, K., Li, S., Aikawa, Y., Lu, X., 
 ["The ALMA Survey of 70 μm Dark High-mass Clumps in Early Stages (ASHES). III. A Young Molecular Outflow Driven by a Decelerating Jet "](https://ui.adsabs.harvard.edu/abs/2021ApJ...913..131T/abstract)
 <br>
 Tafoya, D., Sanhueza, P., Zhang, Q., Li, S., Guzmán, A, Silva, A., de la Fuente, E., Lu, X., **Morii, K.**, Tatematsu, K., Contreras, Y.,  Izumi, N.,
-Jackson, J, M., Nakamura, F., Sakai, T., 
+Jackson, J, M., Nakamura, F., Sakai, T. 
 <br>
 2021, The Astrophysical Journal, 913, 131
 <br />
