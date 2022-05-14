@@ -25,6 +25,10 @@ redirect_from:
         [East Asian ALMA Science Workshop 2021](https://alma.kasi.re.kr/almakasi2021/) (February 17-19, 2021, at Daejeon, Korea (Online))
 
 ## 国内会議:
+**(12)** <br> "Dense cores at the early phase of high-mass star formation" <br> 
+  **森井嘉穂**、 中村文隆、Patricio Sanhueza、立松健一、大橋聡史<br> 
+  [日本天文学会2022年春季年会](https://www.asj.or.jp/nenkai/archive/2022a/pdf/P117a.pdf) (2022年3月 オンライン)
+
 **(11)** <br> "Internal structures of 70 µm dark high-mass clumps: hub-filament systems and massive cores" <br> 
   **Kaho Morii**, Fumitaka Nakamura, Patricio Sanhueza <br>
   Division of Science + Center for Computational Astrophysics workshop 2021 (2021年12月 オンライン)
