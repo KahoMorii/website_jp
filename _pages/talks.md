@@ -19,12 +19,19 @@ redirect_from:
  -->
  
 ## 国際会議: 
+**(2)** <br> ["Early Fragmentation of 70 µm-ark IRDCs: Observational Test for High-mass Star Formation Senario"] <br> 
+        **Kaho Morii** (oral), Fumitaka Nakamura, Patricio Sanhueza, and the ASHES collaboration <br>
+        [STAR FORMATION IN DIFFERENT ENVIRONMENTS 2022]([https://alma.kasi.re.kr/almakasi2021/](https://alma.kasi.re.kr/almakasi2021/abstract/KahoMorii.html](https://www.icisequynhon.com/conferences/2022/SFDE/overview.html)) (August 22-26, 2022, at ICISE, Quy Nhon, Vietnam)
 
 **(1)** <br> ["G023.477:Extremely early phase of high-mass star formation"](https://alma.kasi.re.kr/almakasi2021/abstract/KahoMorii.html) <br> 
         **Kaho Morii** (oral) <br>
         [East Asian ALMA Science Workshop 2021](https://alma.kasi.re.kr/almakasi2021/) (February 17-19, 2021, at Daejeon, Korea (Online))
 
 ## 国内会議:
+**(13)** <br> "The most massive cores in the 70 µm-dark massive clump" <br> 
+  **森井嘉穂**、 中村文隆、Patricio Sanhueza、立松健一、大橋聡史、酒井剛<br> 
+  [日本天文学会2022年秋季年会](https://www.asj.or.jp/nenkai/archive/2022b/pdf/P148a.pdf) (2022年9月 新潟大学)
+
 **(12)** <br> "Dense cores at the early phase of high-mass star formation" <br> 
   **森井嘉穂**、 中村文隆、Patricio Sanhueza、立松健一、大橋聡史<br> 
   [日本天文学会2022年春季年会](https://www.asj.or.jp/nenkai/archive/2022a/pdf/P117a.pdf) (2022年3月 オンライン)
