@@ -33,6 +33,13 @@ Tatematsu, K., Ohashi, S., Silva, A., Olguin, F, A., and Contreras, Y.
 <br />
 
 ## Co-Author Papers 
+**(6)** ["The ALMA Survey of 70 μm Dark High-mass Clumps in Early Stages (ASHES). VII. Chemistry of Embedded Dense Cores"](https://ui.adsabs.harvard.edu/abs/2022ApJ...939..102L/abstract)
+<br>
+Li, Shanghuo, Sanhueza, P., Lu, X., Lee, Chang Won., Zhang, Q., Bovino, S., Sabatini, G., Liu, T., Kim, K., **Morii, K.**, Tafoya, D., Tatematsu, K., Sakai, T., Wang, J., Li, F., Silva, A., Izumi, N., and Allingham, D. 
+<br>
+2022, The Astrophysical Journal, 939, 102
+<br />
+
 **(5)** ["The Core Population and Kinematics of a Massive Clump at Early Stages: An Atacama Large Millimeter/submillimeter Array View"](https://iopscience.iop.org/article/10.3847/1538-4357/ac85b4)
 <br>
 Redaelli1, E., Bovino, S., Sanhueza, P., **Morii, K.**,  Sabatini, G., Caselli, P., Giannetti, A., Li, S. 
