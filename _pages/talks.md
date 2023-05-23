@@ -19,15 +19,30 @@ redirect_from:
  -->
  
 ## 国際会議: 
+**(5)** <br> ["Statistical study of cores embedded in 70 μm-dark high-mass prestellar clumps"](http://ppvii.org/chapter/posters.numbers.pdf](http://ppvii.org/chapter/posters.numbers.pdf)) <br> 
+        **Kaho Morii** (poster), Patricio Sanhueza, and Fumitaka Nakamura <br>
+        [Protostars and Planets VII](http://ppvii.org/) (April 10-15, 2023, at Kyoto, Japan)
+        
+**(4)** <br> ["Defining the initial conditions of high-mass star formation with ALMA"](http://events.asiaa.sinica.edu.tw/workshop/20230214/abstract.php?i=36691b2e0270dba7e0f8e05da7a35875](http://events.asiaa.sinica.edu.tw/workshop/20230214/abstract.php?i=36691b2e0270dba7e0f8e05da7a35875)) <br> 
+        **Kaho Morii** (oral), Patricio Sanhueza, Fumitaka Nakamura, and Zhang Qizhou <br>
+        [East-Asian ALMA Science Workshop 2023](http://events.asiaa.sinica.edu.tw/workshop/20230214/) (February 14-17, 2023, at The Great Roots Resort, New Taipei City, Taiwan)
+        
+**(3)** <br> ["Defining the initial condition of high-mass star formation by observations"](https://indico.ipmu.jp/event/420/contributions/7284/](https://indico.ipmu.jp/event/420/contributions/7284/)) <br> 
+        **Kaho Morii** (oral) <br>
+        [FoPM International Symposium](https://indico.ipmu.jp/event/420/overview) (February 6-8, 2023, at ICISE, Japan)
+        
 **(2)** <br> ["Early Fragmentation of 70 µm-ark IRDCs: Observational Test for High-mass Star Formation Senario"](https://alma.kasi.re.kr/almakasi2021/abstract/KahoMorii.html](https://www.icisequynhon.com/conferences/2022/SFDE/overview.html)) <br> 
         **Kaho Morii** (oral), Fumitaka Nakamura, Patricio Sanhueza, and the ASHES collaboration <br>
         [STAR FORMATION IN DIFFERENT ENVIRONMENTS 2022](https://www.icisequynhon.com/conferences/2022/SFDE/overview.html) (August 22-26, 2022, at ICISE, Quy Nhon, Vietnam)
-
-**(1)** <br> ["G023.477:Extremely early phase of high-mass star formation"](https://alma.kasi.re.kr/almakasi2021/abstract/KahoMorii.html) <br> 
-        **Kaho Morii** (oral) <br>
-        [East Asian ALMA Science Workshop 2021](https://alma.kasi.re.kr/almakasi2021/) (February 17-19, 2021, at Daejeon, Korea (Online))
+        
+**(1)** <br> ["G023.477:Extremely early phase of high-mass star formation"](https://alma.kasi.re.kr/almakasi2021/abstract/KahoMorii.html) <br> **Kaho Morii** (oral) <br>
+[East Asian ALMA Science Workshop 2021](https://alma.kasi.re.kr/almakasi2021/) (February 17-19, 2021, at Daejeon, Korea (Online))
 
 ## 国内会議:
+**(14)** <br> "Core evolution in 70 μm-dark high-mass clumps" <br> 
+  **森井嘉穂**、 中村文隆、Patricio Sanhueza、Qizhou Zhang, 立松健一、酒井剛<br> 
+  [日本天文学会2023年春季年会](https://www.asj.or.jp/nenkai/archive/2023a/session-P1.html) (2023年3月 立教大学)
+  
 **(13)** <br> "The most massive cores in the 70 µm-dark massive clump" <br> 
   **森井嘉穂**、 中村文隆、Patricio Sanhueza、立松健一、大橋聡史、酒井剛<br> 
   [日本天文学会2022年秋季年会](https://www.asj.or.jp/nenkai/archive/2022b/pdf/P148a.pdf) (2022年9月 新潟大学)
