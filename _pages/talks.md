@@ -31,7 +31,7 @@ redirect_from:
         **Kaho Morii** (oral) <br>
         [FoPM International Symposium](https://indico.ipmu.jp/event/420/overview) (February 6-8, 2023, at ICISE, Japan)
         
-**(2)** <br> ["Early Fragmentation of 70 µm-ark IRDCs: Observational Test for High-mass Star Formation Senario"](https://alma.kasi.re.kr/almakasi2021/abstract/KahoMorii.html](https://www.icisequynhon.com/conferences/2022/SFDE/overview.html)) <br> 
+**(2)** <br> ["Early Fragmentation of 70 µm-dark IRDCs: Observational Test for High-mass Star Formation Senario"](https://alma.kasi.re.kr/almakasi2021/abstract/KahoMorii.html](https://www.icisequynhon.com/conferences/2022/SFDE/overview.html)) <br> 
         **Kaho Morii** (oral), Fumitaka Nakamura, Patricio Sanhueza, and the ASHES collaboration <br>
         [STAR FORMATION IN DIFFERENT ENVIRONMENTS 2022](https://www.icisequynhon.com/conferences/2022/SFDE/overview.html) (August 22-26, 2022, at ICISE, Quy Nhon, Vietnam)
         
