@@ -19,26 +19,34 @@ redirect_from:
  -->
  
 ## 国際会議: 
-**(5)** <br> ["Statistical study of cores embedded in 70 μm-dark high-mass prestellar clumps"](http://ppvii.org/chapter/posters.numbers.pdf](http://ppvii.org/chapter/posters.numbers.pdf)) <br> 
+**(6)** <br> **"Insights into High-Mass Star Formation: Statistical Study of Cores in Infrared Dark Clouds"** <br> 
+        **Kaho Morii** (oral) <br>
+        [ALMA at 10 years: Past, Present, and Future](https://www.almaobservatory.org/en/alma-at-10-years-past-present-and-future/) (December 4-8, 2023, at Hotel Cumbres, Puerto Varas., Chile)
+
+**(5)** <br> **"Statistical study of cores embedded in 70 μm-dark high-mass prestellar clumps"** <br> 
         **Kaho Morii** (poster), Patricio Sanhueza, and Fumitaka Nakamura <br>
         [Protostars and Planets VII](http://ppvii.org/) (April 10-15, 2023, at Kyoto, Japan)
         
-**(4)** <br> ["Defining the initial conditions of high-mass star formation with ALMA"](http://events.asiaa.sinica.edu.tw/workshop/20230214/abstract.php?i=36691b2e0270dba7e0f8e05da7a35875](http://events.asiaa.sinica.edu.tw/workshop/20230214/abstract.php?i=36691b2e0270dba7e0f8e05da7a35875)) <br> 
+**(4)** <br> **"Defining the initial conditions of high-mass star formation with ALMA"** <br> 
         **Kaho Morii** (oral), Patricio Sanhueza, Fumitaka Nakamura, and Zhang Qizhou <br>
         [East-Asian ALMA Science Workshop 2023](http://events.asiaa.sinica.edu.tw/workshop/20230214/) (February 14-17, 2023, at The Great Roots Resort, New Taipei City, Taiwan)
         
-**(3)** <br> ["Defining the initial condition of high-mass star formation by observations"](https://indico.ipmu.jp/event/420/contributions/7284/](https://indico.ipmu.jp/event/420/contributions/7284/)) <br> 
+**(3)** <br> **"Defining the initial condition of high-mass star formation by observations"** <br> 
         **Kaho Morii** (oral) <br>
-        [FoPM International Symposium](https://indico.ipmu.jp/event/420/overview) (February 6-8, 2023, at ICISE, Japan)
+        [FoPM International Symposium](https://indico.ipmu.jp/event/420/overview) (February 6-8, 2023, at Ito International Research Center, Tokyo, Japan)
         
-**(2)** <br> ["Early Fragmentation of 70 µm-dark IRDCs: Observational Test for High-mass Star Formation Senario"](https://alma.kasi.re.kr/almakasi2021/abstract/KahoMorii.html](https://www.icisequynhon.com/conferences/2022/SFDE/overview.html)) <br> 
+**(2)** <br> **"Early Fragmentation of 70 µm-dark IRDCs: Observational Test for High-mass Star Formation Scenario"** <br> 
         **Kaho Morii** (oral), Fumitaka Nakamura, Patricio Sanhueza, and the ASHES collaboration <br>
         [STAR FORMATION IN DIFFERENT ENVIRONMENTS 2022](https://www.icisequynhon.com/conferences/2022/SFDE/overview.html) (August 22-26, 2022, at ICISE, Quy Nhon, Vietnam)
         
-**(1)** <br> ["G023.477:Extremely early phase of high-mass star formation"](https://alma.kasi.re.kr/almakasi2021/abstract/KahoMorii.html) <br> **Kaho Morii** (oral) <br>
+**(1)** <br> **"G023.477:Extremely early phase of high-mass star formation"** <br> **Kaho Morii** (oral) <br>
 [East Asian ALMA Science Workshop 2021](https://alma.kasi.re.kr/almakasi2021/) (February 17-19, 2021, at Daejeon, Korea (Online))
 
 ## 国内会議:
+**(15)** <br> "Early fragmentation found in 70 μm-dark massive clumps" <br> 
+  **森井嘉穂**、 中村文隆、Patricio Sanhueza、Qizhou Zhang, 立松健一、酒井剛<br> 
+  [日本天文学会2023年秋季年会](https://www.asj.or.jp/nenkai/archive/2023b/session-P1.html) (2023年9月 名古屋大学)
+  
 **(14)** <br> "Core evolution in 70 μm-dark high-mass clumps" <br> 
   **森井嘉穂**、 中村文隆、Patricio Sanhueza、Qizhou Zhang, 立松健一、酒井剛<br> 
   [日本天文学会2023年春季年会](https://www.asj.or.jp/nenkai/archive/2023a/session-P1.html) (2023年3月 立教大学)
