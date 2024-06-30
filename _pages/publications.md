@@ -46,10 +46,8 @@ Tatematsu, K., Ohashi, S., Silva, A., Olguin, F, A., and Contreras, Y.
 <br />
 
 ## Co-Author Papers 
-**(13)** ["MagMar III -- Resisting the Pressure, Is the Magnetic Field Overwhelmed in NGC6334I? "](https://ui.adsabs.harvard.edu/abs/2024arXiv240614663C/abstract)
+**(13)** ["MagMar III -- Resisting the Pressure, Is the Magnetic Field Overwhelmed in NGC6334I?"](https://ui.adsabs.harvard.edu/abs/2024arXiv240614663C/abstract)
 <be>
-Xu, F., Wang, K., Liu, T., Zhu, L., Garay, G., Liu, X., Goldsmith, P., Zhang, Q., Sanhueza, P., Qin, S., He, J., Juvela, M., Tej, A., Liu, H., Li, S., **Morii, K.**, Zhang, S., Zhou, J., Stutz, A., and Evans, N.
-
 Cortes, P., Girart, J., Sanhueza, P., Liu, J., Martin, S., Stephens, I., Beuther, H., Koch, P., Fernandez-Lopez, M., Sanchez-Monge, A., Wang, J., **Morii, K.**, Li, S., Saha, P., Zhang, Q., Rebolledo, D., Zapata, L., Kang, J., Jiao, W., Kim, J., Cheng, Y., Hwang, J., Chung, E., Choudhury, S., Lyo, A., and Olguin, F.
 <br>
 2024, arXiv:2406.14663
