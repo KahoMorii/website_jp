@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{https://scholar.google.co.jp/citations?user=CDH2vdYAAAAJ&hl=ja&authuser=4}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="https://scholar.google.co.jp/citations?user=CDH2vdYAAAAJ&hl=ja&authuser=4">>my Google Scholar profile</a>.</u>
 {% endif %}
 
 <!-- 
@@ -47,21 +47,21 @@ Tatematsu, K., Ohashi, S., Silva, A., Olguin, F, A., and Contreras, Y.
 
 ## Co-Author Papers 
 **(13)** ["MagMar III - Resisting the Pressure, Is the Magnetic Field Overwhelmed in NGC6334I? "](https://ui.adsabs.harvard.edu/abs/2024arXiv240614663C/abstract)
-<be>
+<br>
 Cortes, P., Girart, J., Sanhueza, P., Liu, J., Martin, S., Stephens, I., Beuther, H., Koch, P., Fernandez-Lopez, M., Sanchez-Monge, A., Wang, J., **Morii, K.**, Li, S., Saha, P., Zhang, Q., Rebolledo, D., Zapata, L., Kang, J., Jiao, W., Kim, J., Cheng, Y., Hwang, J., Chung, E., Choudhury, S., Lyo, A., and Olguin, F.
 <br>
 2024, arXiv:2406.14663
 <br />
 
 **(12)** ["The ALMA-QUARKS Survey. II. The ACA 1.3 mm Continuum Source Catalog and the Assembly of Dense Gas in Massive Star-Forming Clumps "](https://ui.adsabs.harvard.edu/abs/2024RAA....24f5011X/abstract)
-<be>
+<br>
 Xu, F., Wang, K., Liu, T., Zhu, L., Garay, G., Liu, X., Goldsmith, P., Zhang, Q., Sanhueza, P., Qin, S., He, J., Juvela, M., Tej, A., Liu, H., Li, S., **Morii, K.**, Zhang, S., Zhou, J., Stutz, A., Evans, N. Kim, K., Liu, S., Mardones, D., Li, G., Bronfman, L., Tatematsu, K., Lee, C.,  Lu, X., Mai, X., Jiao, S., Chibueze, J., Su, K., and T{'o}th, V.
 <br>
 2024, Research in Astronomy and Astrophysics, Volume 24
 <br />
 
 **(11)** ["The ALMA Survey of 70 µm Dark High-mass Clumps in Early Stages (ASHES). X. Hot Gas Reveals Deeply Embedded Star Formation"](https://ui.adsabs.harvard.edu/abs/2024ApJ...963..163I/abstract)
-<be>
+<br>
 Izumi, N., Sanhueza, P., Koch, P. Lu, X., Li, S., Sabatini, G., Olguin, F, Zhang, Q., Nakamura, F., Tatematsu, K., **Morii, K.**, Sakai, T.  and Tafoya,  D.
 <br>
 2024, The Astrophysical Journal Supplement Series, 963, 163
