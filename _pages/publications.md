@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="{https://scholar.google.co.jp/citations?user=CDH2vdYAAAAJ&hl=ja&authuser=4}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 <!-- 
@@ -46,7 +46,7 @@ Tatematsu, K., Ohashi, S., Silva, A., Olguin, F, A., and Contreras, Y.
 <br />
 
 ## Co-Author Papers 
-**(13)** ["MagMar III - Resisting the Pressure, Is the Magnetic Field Overwhelmed in NGC6334I?"](https://ui.adsabs.harvard.edu/abs/2024arXiv240614663C/abstract)
+**(13)** ["MagMar III - Resisting the Pressure, Is the Magnetic Field Overwhelmed in NGC6334I? "](https://ui.adsabs.harvard.edu/abs/2024arXiv240614663C/abstract)
 <be>
 Cortes, P., Girart, J., Sanhueza, P., Liu, J., Martin, S., Stephens, I., Beuther, H., Koch, P., Fernandez-Lopez, M., Sanchez-Monge, A., Wang, J., **Morii, K.**, Li, S., Saha, P., Zhang, Q., Rebolledo, D., Zapata, L., Kang, J., Jiao, W., Kim, J., Cheng, Y., Hwang, J., Chung, E., Choudhury, S., Lyo, A., and Olguin, F.
 <br>
