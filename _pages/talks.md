@@ -19,6 +19,10 @@ redirect_from:
  -->
  
 ## 国際会議: 
+**(7)** <br> **"Insights from ASHES: Core Characteristics in 70 μm Dark High-mass Clumps"** <br> 
+        **Kaho Morii** (oral) <br>
+        [The Early Phase of Star Formation](https://www2.mpia-hd.mpg.de/homes/stein/EPoS/2024/epos2024.php) (May 12-17, 2024, at Ringberg Castle., Germany)
+
 **(6)** <br> **"Insights into High-Mass Star Formation: Statistical Study of Cores in Infrared Dark Clouds"** <br> 
         **Kaho Morii** (oral) <br>
         [ALMA at 10 years: Past, Present, and Future](https://www.almaobservatory.org/en/alma-at-10-years-past-present-and-future/) (December 4-8, 2023, at Hotel Cumbres, Puerto Varas., Chile)
