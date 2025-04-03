@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
      
-最新の研究成果がプレスリリースとして国立天文台とALMA観測所から公開されました。詳しくは以下のリンクからご覧ください。 <br>
+研究成果がプレスリリースとして国立天文台とALMA観測所から公開されました。詳しくは以下のリンクからご覧ください。 <br>
 国立天文台: [https://www.nao.ac.jp/news/science/2023/20230620-alma.html](https://www.nao.ac.jp/news/science/2023/20230620-alma.html) <br>
 ALMA[https://alma-telescope.jp/news/stellarseeds-202306](https://alma-telescope.jp/news/stellarseeds-202306) <br>
 
