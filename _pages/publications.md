@@ -7,11 +7,12 @@ redirect_from:
   - /publications
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.co.jp/citations?user=CDH2vdYAAAAJ&hl=ja&authuser=4">>my Google Scholar profile</a>.</u>
+出版論文一覧 <u><a href="https://ui.adsabs.harvard.edu/public-libraries/5WiTkuAETvixem2VlGJVTw">> the ADS Library</a>.</u>
+
 <!-- 
 {% include base_path %} -->
 
-## Lead-Author Papers 
+## 筆頭著者・投稿論文 
 **(5)** ["Global and Local Infall in the ASHES Sample (GLASHES). I. Pilot Study in G337.541 "](https://ui.adsabs.harvard.edu/abs/2025ApJ...979..233M/abstract)
 <br>
 **Morii, K.**, Sanhueza, P., Csengeri, T., Nakamura, F., Sylvain, B., Guido, G., Qizhou, Z.
@@ -48,8 +49,6 @@ Tatematsu, K., Ohashi, S., Silva, A., Olguin, F, A., and Contreras, Y.
 <br>
 2021, The Astrophysical Journal, 910, 148
 <br />
-
-All publications, including 17 co-authored papers, are in <u><a href="https://ui.adsabs.harvard.edu/public-libraries/5WiTkuAETvixem2VlGJVTw">> the ADS Library</a>.</u>
 
 
 <!-- {% for post in site.publications reversed %}
