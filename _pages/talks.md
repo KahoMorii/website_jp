@@ -18,7 +18,11 @@ redirect_from:
 {% endfor %}
  -->
  
-## 国際会議: 
+## 国際会議:
+**(8)** <br> **"Signs of Dynamic Gas Inflow toward Intermediate-mass Cores Embedded in IRDC"** <br> 
+        **Kaho Morii** (oral) <br>
+        [East Asian ALMA Science Workshop 2024](https://alma.kasi.re.kr/EA_ALMA_2024/) (July 22-24, 2024, at Korea)
+        
 **(7)** <br> **"Insights from ASHES: Core Characteristics in 70 μm Dark High-mass Clumps"** <br> 
         **Kaho Morii** (oral) <br>
         [The Early Phase of Star Formation](https://www2.mpia-hd.mpg.de/homes/stein/EPoS/2024/epos2024.php) (May 12-17, 2024, at Ringberg Castle., Germany)
