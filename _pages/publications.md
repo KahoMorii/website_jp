@@ -12,7 +12,7 @@ redirect_from:
 <!-- 
 {% include base_path %} -->
 
-## 筆頭著者・投稿論文 
+## 筆頭著者論文 
 **(5)** ["Global and Local Infall in the ASHES Sample (GLASHES). I. Pilot Study in G337.541 "](https://ui.adsabs.harvard.edu/abs/2025ApJ...979..233M/abstract)
 <br>
 **Morii, K.**, Sanhueza, P., Csengeri, T., Nakamura, F., Sylvain, B., Guido, G., Qizhou, Z.
