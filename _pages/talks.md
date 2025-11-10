@@ -19,6 +19,14 @@ redirect_from:
  -->
  
 ## 国際会議:
+**(10)** invited <br> **"Probing the Origin of Dense Cores in High-Mass Star-Forming Regions through Early-Stage Fragmentation"** <br> 
+        **Kaho Morii** (oral) <br>
+        [Stellar Origins 2025](https://stellarorigins2025.univie.ac.at/) (September 15-19, 2025, at University of Vienna, Austria)
+        
+**(9)** <br> **"Seeds of Massive Stars Revealed by Radio Observations "** <br> 
+        **Kaho Morii** (oral) <br>
+        [FoPM International Symposium 2025](https://indico.ipmu.jp/event/459/overview) (February 17-19, 2025, at Ito International Research Center, Tokyo, Japan)
+
 **(8)** <br> **"Signs of Dynamic Gas Inflow toward Intermediate-mass Cores Embedded in IRDC"** <br> 
         **Kaho Morii** (oral) <br>
         [East Asian ALMA Science Workshop 2024](https://alma.kasi.re.kr/EA_ALMA_2024/) (July 22-24, 2024, at Korea)
@@ -49,6 +57,16 @@ redirect_from:
         
 **(1)** <br> **"G023.477:Extremely early phase of high-mass star formation"** <br> **Kaho Morii** (oral) <br>
 [East Asian ALMA Science Workshop 2021](https://alma.kasi.re.kr/almakasi2021/) (February 17-19, 2021, at Daejeon, Korea (Online))
+
+## セミナーでの招待講演: 
+**"DAO Astronomy Colloquium"** at Herzberg Institute of Astrophysics (2025年10月) <br>
+**"Galaxy Evolution Community Knowledge-sharing Opportunity (GECKO) Seminar"** (online, 2025年10月) <br>
+**"Early Phase and Initial Conditions of Galactic Massive Star Formation"** at KIAA-PKU (online,2024年7月) <br>
+**"PSF coffee"** at Max Planck Institute for Astronomy (2024年3月) <br>
+**"MPE-CAS journal club"** at Max-Planck-Institut für extraterrestrische Physik (2024年3月) <br>
+**"Weekly group meeting"** at Universitat de Barcelona (2024年2月) <br>
+**"Weekly seminar at Laboratoire d'Astrophysique de Bordeaux"** at Université de Bordeaux (2024年1月) <br>
+**"SMA seminar"** at Harvard-Smithsonian Center for Astrophysics (2023年1月)
 
 ## 国内会議:
 **(15)** <br> "Early fragmentation found in 70 μm-dark massive clumps" <br> 
