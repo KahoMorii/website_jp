@@ -4,8 +4,18 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-     
-研究成果がプレスリリースとして国立天文台とALMA観測所から公開されました。詳しくは以下のリンクからご覧ください。 <br>
+
+大質量星形成の初期段階を明らかにすることを目的に、誕生現場と考えられる赤外線暗黒星雲内の70 μm-dark cloudを主な観測対象として研究を進めています。
+
+分子雲コアの性質を理解するため、コアの物理量や進化段階（アウトフローやジェット、分子輝線による温かいガスの検出）、分裂過程、質量関数（CMF）、空間分布などを総合的に解析しています。これらの研究は、ALMA Survey of 70 μm Dark High-mass Clumps in Early Stages (ASHES) プロジェクトの一環として実施しています。
+
+近年は、新たに Global and Local Infall in the ASHES Sample (GLASHES) プロジェクトを立ち上げ、コア周辺のガス運動やコアへのガス流入の兆候を詳細に探る研究を展開しています。
+
+さらに、赤外線暗黒星雲だけでなく、ホットコアやH II領域を含むクラスター形成領域における星形成過程の比較研究にも取り組んでいます。
+
+主な観測には ALMA望遠鏡 を用いていますが、Submillimeter Array (SMA) や Very Large Array (VLA) を用いた観測も実施しており、これらを活用した研究も進めています。
+
+以下は、ASHESプロジェクトの一つの結果が、プレスリリースとして公開されたものです。詳しくは以下のリンクからご覧ください。 <br>
 国立天文台: [https://www.nao.ac.jp/news/science/2023/20230620-alma.html](https://www.nao.ac.jp/news/science/2023/20230620-alma.html) <br>
 ALMA[https://alma-telescope.jp/news/stellarseeds-202306](https://alma-telescope.jp/news/stellarseeds-202306) <br>
 
