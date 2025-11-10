@@ -13,6 +13,13 @@ redirect_from:
 {% include base_path %} -->
 
 ## 筆頭著者論文 
+**(6)** "The Atacama Large Millimeter/submillimeter Array (ALMA) Survey of 70 μm Dark High-mass Clumps in Early Stages (ASHES). XIII. Core Mass Function Lifetime, and Growth of Prestellar Cores" 
+<br>
+**Morii, K.**, Sanhueza, P., Zhang, Q., Sabatini, G., Li, S., Louvet, F., Beuther, H., Olguin, F., Lin, S., Tafoya, D., Sakai, T., Lu, X., Nakamura, F.
+<br>
+2025, The Astrophysical Journal, under review
+<br />
+
 **(5)** ["Global and Local Infall in the ASHES Sample (GLASHES). I. Pilot Study in G337.541 "](https://ui.adsabs.harvard.edu/abs/2025ApJ...979..233M/abstract)
 <br>
 **Morii, K.**, Sanhueza, P., Csengeri, T., Nakamura, F., Sylvain, B., Guido, G., Qizhou, Z.
