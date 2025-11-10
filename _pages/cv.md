@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+<u><a href="https://drive.google.com/file/d/1xLm52MQa6tMzx84Te7S8kjc56vagHLYu/view?usp=sharing"> 最新版CV </a></u> (最終更新2025年11月)
+
 職歴
 ======
 * 2025年4月-現在 <br> CfA フェロー @Center for Astrophysics \|  Harvard & Smithsonian
@@ -19,6 +21,17 @@ redirect_from:
 * 2025年3月 <br>　博士（理学）東京大学大学院理学系研究科天文学専攻
 * 2022年3月 <br>　修士（理学）東京大学大学院理学系研究科天文学専攻
 * 2020年3月 <br>　学士（理学）九州大学理学部地球惑星科学科
+
+受賞歴
+======
+* 東京大学理学系研究科研究奨励賞 (2025年3月)
+
+* FoPM, WINGS Program FE 優秀賞 (2024年9月)
+
+* 第19回ロレアル－ユネスコ女性科学者 日本奨励賞 (2024年9月)
+  <u><a href="https://www.s.u-tokyo.ac.jp/ja/info/10488/">プレスリリース</a>.</u>
+
+* FoPM, WINGS Program QE 優秀賞 (2022年3月)
 
 <!-- Work experience
 ======
