@@ -13,7 +13,7 @@ redirect_from:
 {% include base_path %} -->
 
 ## 筆頭著者論文 
-**(6)** "The Atacama Large Millimeter/submillimeter Array (ALMA) Survey of 70 μm Dark High-mass Clumps in Early Stages (ASHES). XIII. Core Mass Function Lifetime, and Growth of Prestellar Cores" 
+**(6)** ["The Atacama Large Millimeter/submillimeter Array (ALMA) Survey of 70 μm Dark High-mass Clumps in Early Stages (ASHES). XIII. Core Mass Function Lifetime, and Growth of Prestellar Cores"](https://ui.adsabs.harvard.edu/abs/2026ApJ...997..155M/abstract) 
 <br>
 **Morii, K.**, Sanhueza, P., Zhang, Q., Sabatini, G., Li, S., Louvet, F., Beuther, H., Olguin, F., Lin, S., Tafoya, D., Sakai, T., Lu, X., Nakamura, F.
 <br>
