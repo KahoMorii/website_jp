@@ -17,7 +17,7 @@ redirect_from:
 <br>
 **Morii, K.**, Sanhueza, P., Zhang, Q., Sabatini, G., Li, S., Louvet, F., Beuther, H., Olguin, F., Lin, S., Tafoya, D., Sakai, T., Lu, X., Nakamura, F.
 <br>
-2025, The Astrophysical Journal, under review
+2026, The Astrophysical Journal, 997, 155
 <br />
 
 **(5)** ["Global and Local Infall in the ASHES Sample (GLASHES). I. Pilot Study in G337.541 "](https://ui.adsabs.harvard.edu/abs/2025ApJ...979..233M/abstract)
